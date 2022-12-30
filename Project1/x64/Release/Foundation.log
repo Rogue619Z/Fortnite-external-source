@@ -1,0 +1,634 @@
+﻿  External.cpp
+C:\Users\a\Music\Project1\ExternalUtils.h(191,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(191,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(191,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(231,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(232,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(233,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(235,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(236,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(237,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(239,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(240,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(241,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(242,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(243,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(244,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(246,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(247,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(248,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(249,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(251,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(252,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(253,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(254,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(256,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(257,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(258,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(259,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\Music\Project1\ExternalUtils.h(300,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\uxtheme.h(1600,57): warning C4459: declaration of 'hwnd' hides global declaration
+C:\Users\a\Music\Project1\ExternalUtils.h(25,6): message : see declaration of 'hwnd'
+C:\Users\a\Music\Project1\dtcnerds.h(18,27): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+C:\Users\a\Music\Project1\zerogui.h(83,70): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+C:\Users\a\Music\Project1\zerogui.h(98,57): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+C:\Users\a\Music\Project1\zerogui.h(114,59): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+C:\Users\a\Music\Project1\zerogui.h(130,72): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+C:\Users\a\Music\Project1\zerogui.h(210,56): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+C:\Users\a\Music\Project1\zerogui.h(210,56): warning C4100: 'color': unreferenced formal parameter
+C:\Users\a\Music\Project1\zerogui.h(216,58): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+C:\Users\a\Music\Project1\zerogui.h(216,58): warning C4100: 'color': unreferenced formal parameter
+C:\Users\a\Music\Project1\zerogui.h(222,71): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+C:\Users\a\Music\Project1\zerogui.h(224,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\Music\Project1\zerogui.h(227,77): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+C:\Users\a\Music\Project1\zerogui.h(236,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\Music\Project1\zerogui.h(234,72): warning C4100: 'Color': unreferenced formal parameter
+C:\Users\a\Music\Project1\zerogui.h(320,64): warning C4100: 'outline': unreferenced formal parameter
+C:\Users\a\Music\Project1\zerogui.h(510,70): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\a\Music\Project1\Print/util.h(33,34): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+C:\Users\a\Music\Project1\Auth/xor.h(20,1): warning C4005: '_': macro redefinition
+C:\Users\a\Music\Project1\skStr.h(119,1): message : see previous definition of '_'
+External.cpp(84,36): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+External.cpp(206,94): warning C4100: 'OldValue': unreferenced formal parameter
+External.cpp(206,70): warning C4100: 'CurrentThread': unreferenced formal parameter
+External.cpp(206,54): warning C4100: 'Enable': unreferenced formal parameter
+External.cpp(206,35): warning C4100: 'Privilege': unreferenced formal parameter
+External.cpp(211,163): warning C4100: 'Response': unreferenced formal parameter
+External.cpp(211,134): warning C4100: 'ValidResponseOptions': unreferenced formal parameter
+External.cpp(211,116): warning C4100: 'Parameters': unreferenced formal parameter
+External.cpp(211,77): warning C4100: 'UnicodeStringParameterMask': unreferenced formal parameter
+External.cpp(211,51): warning C4100: 'NumberOfParameters': unreferenced formal parameter
+External.cpp(211,32): warning C4100: 'ErrorStatus': unreferenced formal parameter
+External.cpp(315,22): warning C4244: '=': conversion from 'int' to 'SHORT', possible loss of data
+External.cpp(316,23): warning C4244: '=': conversion from 'int' to 'SHORT', possible loss of data
+External.cpp(527,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(528,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(529,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(554,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+External.cpp(555,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+External.cpp(556,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+External.cpp(642,33): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=double
+          ]
+External.cpp(636,10): warning C4101: 'v7': unreferenced local variable
+External.cpp(637,10): warning C4101: 'v8': unreferenced local variable
+External.cpp(635,10): warning C4101: 'v6': unreferenced local variable
+External.cpp(655,9): warning C4459: declaration of 'vCamera' hides global declaration
+External.cpp(481,11): message : see declaration of 'vCamera'
+External.cpp(705,13): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+External.cpp(708,17): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+External.cpp(772,21): warning C4018: '<': signed/unsigned mismatch
+External.cpp(774,8): warning C4189: 'CurrentActorId': local variable is initialized but not referenced
+External.cpp(799,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+External.cpp(799,6): warning C4189: 'len': local variable is initialized but not referenced
+External.cpp(827,140): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(827,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(827,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(828,140): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(828,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(828,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(829,140): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(829,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(829,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(830,140): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(830,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(830,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(831,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(831,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(835,53): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+External.cpp(840,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(840,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(840,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(840,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(840,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(840,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(843,53): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+External.cpp(845,172): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(845,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(845,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(845,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(845,183): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(845,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(845,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(845,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(845,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(848,55): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+External.cpp(850,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(850,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(850,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(850,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(853,60): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+External.cpp(854,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+External.cpp(855,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+External.cpp(856,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(856,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(856,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(856,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(857,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(857,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(857,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(857,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(858,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(858,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(858,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(858,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(859,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(859,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(859,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(859,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(860,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(860,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(860,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(860,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(861,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(861,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(861,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(861,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(862,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(862,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(862,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(862,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(863,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(863,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(863,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(863,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(866,53): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+External.cpp(877,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+External.cpp(878,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+External.cpp(882,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(882,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(883,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(883,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(884,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(884,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(885,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(885,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(887,181): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(887,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(887,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(887,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(887,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(887,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(896,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(896,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(896,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(896,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(899,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(899,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(899,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(899,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(902,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(902,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(902,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(902,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(905,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(905,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(905,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(905,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(908,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(908,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(908,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(908,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(911,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(911,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(911,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(911,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(914,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(914,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(914,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(914,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(917,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(917,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(917,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(917,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(890,58): warning C4100: 'Color': unreferenced formal parameter
+External.cpp(920,41): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+External.cpp(924,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+External.cpp(925,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+External.cpp(926,126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(926,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(926,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(926,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(927,122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(927,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(927,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(927,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(928,137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(928,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(928,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(928,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(929,137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(929,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(929,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(929,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(930,137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(930,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(930,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(930,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(931,137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(931,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(931,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(931,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(934,68): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+External.cpp(947,70): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+External.cpp(960,63): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+External.cpp(961,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+External.cpp(962,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+External.cpp(964,158): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(964,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(964,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(964,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(965,158): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(965,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(965,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(965,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(966,166): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(966,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(966,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(966,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(967,166): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(967,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(967,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(967,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(968,166): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(968,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(968,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(968,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(969,166): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(969,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(969,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(969,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(970,174): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(970,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(970,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(970,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(971,174): warning C4305: 'argument': truncation from 'double' to 'float'
+External.cpp(971,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(971,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(971,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(974,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(974,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(974,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(974,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(975,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(975,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(975,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(975,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(976,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(976,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(976,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(976,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(977,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(977,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(977,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(977,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(978,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(978,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(978,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(978,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(979,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(979,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(979,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(979,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(980,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(980,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(980,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(980,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(981,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(981,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(981,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(981,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(984,40): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+External.cpp(988,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+External.cpp(989,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+External.cpp(990,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(990,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(990,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(990,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(991,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(991,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(991,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(991,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(992,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(992,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(992,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(992,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(993,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(993,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(993,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(993,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(994,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(994,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(994,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(994,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(995,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(995,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(995,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(995,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(988,6): warning C4189: 'crosspozisyon': local variable is initialized but not referenced
+External.cpp(989,6): warning C4189: 'crosspozisyony': local variable is initialized but not referenced
+External.cpp(998,62): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+External.cpp(1009,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+External.cpp(1010,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+External.cpp(1014,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1014,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1015,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1015,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1016,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1016,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1017,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1017,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1019,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1019,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1022,49): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+External.cpp(1024,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1024,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1024,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1024,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1024,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1024,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1024,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1027,56): warning C4459: declaration of 'Col' hides global declaration
+C:\Users\a\Music\Project1\ExternalUtils.h(400,10): message : see declaration of 'Col'
+External.cpp(1033,48): warning C4459: declaration of 'color' hides global declaration
+C:\Users\a\Music\Project1\settings.h(122,3): message : see declaration of 'color'
+External.cpp(1035,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1035,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1035,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1047,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1047,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1045,49): warning C4100: 'z1': unreferenced formal parameter
+External.cpp(1163,10): warning C4189: 'font': local variable is initialized but not referenced
+External.cpp(1171,8): warning C4459: declaration of 'ScreenCenterX' hides global declaration
+External.cpp(348,7): message : see declaration of 'ScreenCenterX'
+External.cpp(1171,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+External.cpp(1172,8): warning C4459: declaration of 'ScreenCenterY' hides global declaration
+External.cpp(349,7): message : see declaration of 'ScreenCenterY'
+External.cpp(1172,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+External.cpp(1221,19): warning C4244: 'initializing': conversion from 'const wchar_t' to 'char', possible loss of data
+External.cpp(1226,40): warning C4244: '=': conversion from 'const wchar_t' to 'char', possible loss of data
+External.cpp(1235,18): warning C4244: 'initializing': conversion from 'const wchar_t' to 'char', possible loss of data
+External.cpp(1292,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1304,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1308,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1312,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1316,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1320,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1324,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1328,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1332,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1336,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1340,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1344,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1348,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1352,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1356,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1360,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1364,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1368,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1372,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1376,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1380,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1384,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1388,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1392,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1396,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1400,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1404,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1408,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1412,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1416,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1420,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1424,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1428,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1432,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1436,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1440,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1444,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1448,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1452,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1456,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1460,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1464,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1468,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1472,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1476,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1480,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1484,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1488,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1492,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1496,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1500,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1504,10): warning C4553: '==': result of expression not used; did you intend '='?
+External.cpp(1513,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1518,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1518,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1518,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1518,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1519,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1519,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1519,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1519,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1520,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1520,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1520,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1520,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1521,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1521,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1521,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1521,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1526,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1544,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(1547,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(1548,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(1553,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(1554,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(1556,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External.cpp(1571,17): warning C4459: declaration of 'Cached' hides global declaration
+C:\Users\a\Music\Project1\settings.h(178,7): message : see declaration of 'Cached'
+External.cpp(1636,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1636,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1636,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1636,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1636,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1641,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1641,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1641,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1641,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1641,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1651,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1651,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1651,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1651,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1651,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1652,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1652,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1652,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1652,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1652,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1653,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1653,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1653,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1653,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1653,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1654,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1654,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1654,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1654,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1654,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1661,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1661,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1661,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1661,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1661,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1662,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1662,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1662,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1662,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1662,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1663,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1663,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1663,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1663,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1663,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1664,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1664,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1664,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1664,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1664,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1674,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1674,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1674,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1674,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1678,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1678,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1678,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1678,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1684,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1684,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1684,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1684,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External.cpp(1696,95): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1696,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1703,11): warning C4459: declaration of 'name' hides global declaration
+External.cpp(50,13): message : see declaration of 'name'
+External.cpp(1705,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1705,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1733,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1733,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1733,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1733,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1734,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1734,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1734,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1734,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1735,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1735,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1735,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1735,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1736,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1736,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1736,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1736,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1738,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1738,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1738,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1738,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1739,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1739,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1739,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1739,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1740,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1740,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1740,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1740,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1741,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1741,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1741,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1741,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1743,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1743,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1743,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1743,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1744,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1744,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1744,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1744,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1745,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1745,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1745,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1745,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1746,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1746,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1746,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1746,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1808,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1808,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1811,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1811,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External.cpp(1822,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1868,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1868,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External.cpp(1629,80): warning C4390: ';': empty controlled statement found; is this the intent?
+External.cpp(1557,9): warning C4189: 'CornerWidth': local variable is initialized but not referenced
+External.cpp(1550,9): warning C4189: 'LeftX': local variable is initialized but not referenced
+External.cpp(1551,9): warning C4189: 'LeftY': local variable is initialized but not referenced
+External.cpp(1561,8): warning C4189: 'selfstate': local variable is initialized but not referenced
+External.cpp(1625,13): warning C4189: 'ActorState': local variable is initialized but not referenced
+External.cpp(1615,10): warning C4189: 'UFortPlayerAttrSet': local variable is initialized but not referenced
+External.cpp(1633,12): warning C4101: 'ESPSkeletonn': unreferenced local variable
+External.cpp(1762,12): warning C4189: 'itemName2': local variable is initialized but not referenced
+External.cpp(1928,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1928,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1933,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(1933,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External.cpp(2030,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+External.cpp(2031,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+External.cpp(2065,42): warning C4459: declaration of 'Message' hides global declaration
+External.cpp(326,5): message : see declaration of 'Message'
+External.cpp(2151,8): warning C4459: declaration of 'name' hides global declaration
+External.cpp(50,13): message : see declaration of 'name'
+C:\Users\a\Music\Project1\zerogui.h(83,15): warning C4505: 'ZeroGui::PostRenderer::draw_filled_rect': unreferenced function with internal linkage has been removed
+C:\Users\a\Music\Project1\zerogui.h(98,15): warning C4505: 'ZeroGui::PostRenderer::text_left': unreferenced function with internal linkage has been removed
+C:\Users\a\Music\Project1\zerogui.h(114,15): warning C4505: 'ZeroGui::PostRenderer::text_center': unreferenced function with internal linkage has been removed
+C:\Users\a\Music\Project1\zerogui.h(130,15): warning C4505: 'ZeroGui::PostRenderer::draw_line': unreferenced function with internal linkage has been removed
+C:\Users\a\Music\Project1\zerogui.h(189,14): warning C4505: 'ZeroGui::next_column': unreferenced function with internal linkage has been removed
+C:\Users\a\Music\Project1\zerogui.h(199,14): warning C4505: 'ZeroGui::push_element_x': unreferenced function with internal linkage has been removed
+C:\Users\a\Music\Project1\zerogui.h(204,14): warning C4505: 'ZeroGui::push_element_y': unreferenced function with internal linkage has been removed
+C:\Users\a\Music\Project1\zerogui.h(234,14): warning C4505: 'ZeroGui::draw_circle': unreferenced function with internal linkage has been removed
+C:\Users\a\Music\Project1\zerogui.h(240,14): warning C4505: 'ZeroGui::begin_window': unreferenced function with internal linkage has been removed
+C:\Users\a\Music\Project1\zerogui.h(320,14): warning C4505: 'ZeroGui::text_normal': unreferenced function with internal linkage has been removed
+C:\Users\a\Music\Project1\zerogui.h(356,14): warning C4505: 'ZeroGui::button_tab': unreferenced function with internal linkage has been removed
+C:\Users\a\Music\Project1\zerogui.h(415,14): warning C4505: 'ZeroGui::check_box': unreferenced function with internal linkage has been removed
+C:\Users\a\Music\Project1\zerogui.h(473,14): warning C4505: 'ZeroGui::zero_slider': unreferenced function with internal linkage has been removed
+C:\Users\a\Music\Project1\zerogui.h(547,14): warning C4505: 'ZeroGui::zero_render': unreferenced function with internal linkage has been removed
+External.cpp(252,16): warning C4505: 'timet_to_tm': unreferenced function with internal linkage has been removed
+External.cpp(259,20): warning C4505: 'string_to_timet': unreferenced function with internal linkage has been removed
+External.cpp(719,20): warning C4505: 'GetNameFromFName': unreferenced function with internal linkage has been removed
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1374,5): warning MSB8012: TargetPath(C:\Users\a\Music\Project1\x64\Release\.exe) does not match the Linker's OutputFile property value (C:\Users\a\Music\Project1\x64\Release\Foundation.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error C1047: The object or library file 'SonyDriverHelper.lib' was created by a different version of the compiler than other objects like 'x64\Release\comms.obj'; rebuild all objects and libraries with the same compiler
+LINK : fatal error LNK1257: code generation failed
